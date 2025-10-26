@@ -1,5 +1,3 @@
-package Exercise_List_02_Linear_Lists_and_Ordering;
-
 import java.util.Scanner;
 
 public class L2Q4 {
